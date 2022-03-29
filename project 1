@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    
+    
+     <style> #my 
+         {
+         background-color:#4741a5fa ;
+         padding: 24px;
+         }
+
+         .my
+         {
+            font-size:28px;
+             padding:8px;
+             font-weight: 600px;
+
+         }
+         #listheading{
+           font-size: 20px;  
+           padding: left 24px; ;
+         }
+         .food-list-item
+         {
+             font-size: 20px;
+         }
+         .food-pic{
+             width: 400px;
+             height: 400px;
+         }
+         .food-wapped{
+             text-align: center;
+         }
+         </style>
+</head>
+<body style="margin:0">
+
+    <div id="topbar">
+        
+       </div>
+       <div  id="my"> 
+        <span class id="my">index</span>
+        <span class id="my">menu</span>
+        <span class id= "my">about</span>    
+     </div>
+         <h3 id="listheading">Top five Favorite foods </h3>
+         <ul>
+             <li><a class="food-list-item"href="#briyani">briyani</a></li>
+             <li><a  class="food-list-item" href ="#pizza">pizza</a></li>
+             <li><a class="food-list-item"href = "#las">lasagna</a></li>
+             <li><a class="food-list-item" href ="#burger">burger</a></li>
+             <li><a class="food-list-item" href ="#salad">casar salad</a></li>
+             
+         </ul>
+         <div id="briyani" class="food-wapped"> 
+         <img  class="food-pic" scr="F:\all html\2 bat mam.jpg" alt ="briyani"  />
+         <p>briyani</p>  
+         </div>
+
+
+         <div id="pizza"class="food-wapped">
+         <img class="food-pic"scr="https://www.yummyoyummy.com/wp-content/uploads/2020/08/Zaffrani-Chicken-Biriyani-01.jpg" alt ="pizza"  />
+         <p>pizza</p>
+         </div>
+
+         <div id="las" class="food-wapped">
+         <img class="food-pic"  scr="https://www.yummyoyummy.com/wp-content/uploads/2020/08/Zaffrani-Chicken-Biriyani-01.jpg" alt ="lasagna"  />
+         <p>lasagna</p>
+        </div>
+        <div id="burger"class="food-wapped">
+        <img class="food-pic"  scr="https://www.yummyoyummy.com/wp-content/uploads/2020/08/Zaffrani-Chicken-Biriyani-01.jpg" alt ="burger"  />
+         <p>burger</p>
+        </div>
+         <div id="salad" class="food-wapped">
+         <img class="food-pic" scr="https://www.yummyoyummy.com/wp-content/uploads/2020/08/Zaffrani-Chicken-Biriyani-01.jpg" alt ="casar salad"  />
+         <p>casar salad</p>
+        
+        
+        
+        </div>
+    </body>
+</html>
