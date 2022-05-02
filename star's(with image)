@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World!</title>
+    
+  </head>
+  <body style="margin: 0%; background-color: rgba(44, 1, 1, 0.788);">
+<h1 style="margin-top: 16px; margin-bottom: 16px; text-align: center;font-size: 48px;color: rgb(26, 150, 150);">THE STAR's</h1>
+    <img src="https://media.istockphoto.com/photos/colorful-background-of-pastel-powder-explosionrainbow-color-dust-on-picture-id1180542165?k=20&m=1180542165&s=612x612&w=0&h=43hlhk8qdGYP4V-u3AAxD3kPDRIzHjMNWpr-VdBQ2Js=" alt="" style="width: 100%; height: 600px;" />
+<p style="padding: 16px;font-size: 24px; line-height: 25px;"> According to current star formation theory, stars are born as clumps within gigantic gas clouds that collapse in on themselves. The cloud’s material heats up as it falls inward under the force of its own gravity.
+
+    When the gas reaches about 10 million K (18 million °F), hydrogen nuclei begin to fuse into helium nuclei, and the star is born. Energy from nuclear fusion radiates outward from the center of the burgeoning star, and gradually halts the gas cloud’s collapse.</p>
+<p style="padding: 20px;font-size: medium;line-height: 30px;">According to current star formation theory, stars are born as clumps within gigantic gas clouds that collapse in on themselves. The cloud’s material heats up as it falls inward under the force of its own gravity.
+
+    When the gas reaches about 10 million K (18 million °F), hydrogen nuclei begin to fuse into helium nuclei, and the star is born. Energy from nuclear fusion radiates outward from the center of the burgeoning star, and gradually halts the gas cloud’s collapse.</p>
+<p style="padding:20px;font-size:medium;line-height:25px;;">According to current star formation theory, stars are born as clumps within gigantic gas clouds that collapse in on themselves. The cloud’s material heats up as it falls inward under the force of its own gravity.
+
+    When the gas reaches about 10 million K (18 million °F), hydrogen nuclei begin to fuse into helium nuclei, and the star is born. Energy from nuclear fusion radiates outward from the center of the burgeoning star, and gradually halts the gas cloud’s collapse.</p>
+<h3 style="padding-left: 20px;font-size: large;">the unorder list</h3>
+<ul style="padding: 20px;font-size: large;">
+    <li>element 1</li>
+    <li>element 1</li>
+    <li>element 1</li>
+    <li>element 1</li>
+    <li>element 1</li>
+
+</ul>
+</body>
+</html>
